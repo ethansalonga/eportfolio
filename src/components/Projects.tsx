@@ -12,8 +12,8 @@ const Projects = () => {
             Here are some of my <span className="blue">projects</span>
           </h1>
           <ul className="project__list">
-            {projectsArr.map((project) => (
-              <li className="project">
+            {projectsArr.map((project, index) => (
+              <li className="project" key={index}>
                 <div className="project__wrapper">
                   <img
                     src={project.screenshot}
