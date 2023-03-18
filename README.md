@@ -16,15 +16,13 @@ Hey, I'm Ethan! I'm a professional Frontend Developer working for an internation
 
 I've always been a lifelong learner. I love picking up new things about frontend development and software in general every day, both during and outside of work hours. While I love working on the frontend, I'd love to branch out and learn new skills and technologies such as backend development, machine learning, cloud engineering, cybersecurity, etc. I'm extremely excited, grateful, and motivated to be at the start of my programming journey, and I can't wait to see what the future has in store! Feel free to connect with me on LinkedIn or GitHub, or shoot me an e-mail directly at ethan@ethansalonga.dev!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 - HTML
 - CSS
-- JavaScript
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- TypeScript
+- React
+- Vite
 
 <!-- CONTACT -->
 
@@ -35,8 +33,6 @@ Ethan Salonga - [E-portfolio](https://ethansalonga.dev/) - ethan@ethansalonga.de
 Project Link: [https://ethansalonga.dev/](https://ethansalonga.dev/)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
