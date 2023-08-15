@@ -1,7 +1,17 @@
+import BlueprintScreenshot from "../src/assets/the_blueprint.png"
 import SumpSearchScreenshot from "../src/assets/sumpsearch.png"
 import MythicScreenshot from "../src/assets/mythic_ecommerce.png"
 
 const projectsArr = [
+  {
+    screenshot: BlueprintScreenshot,
+    title: "The Blueprint",
+    languages: "HTML, CSS, TypeScript, React, Redux, Firebase",
+    description:
+      "The Blueprint is a tool that allows you to organize your relationships, goals, and personal life. Craft the life you've always wanted to live and be your best self every single day! While built for my own personal use, this app utilizes Firebase authentication and Firestore database so that others may try it out and see if it benefits them as much as it has myself.",
+    githubLink: "https://github.com/ethansalonga/the-blueprint",
+    projectLink: "https://sprightly-meerkat-c0f6f6.netlify.app",
+  },
   {
     screenshot: SumpSearchScreenshot,
     title: "SumpSearch",
