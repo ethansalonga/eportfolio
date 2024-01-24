@@ -1,8 +1,17 @@
+import MensHealthClinicScreenshot from "../src/assets/mens_health_clinic.png"
 import BlueprintScreenshot from "../src/assets/the_blueprint.png"
 import SumpSearchScreenshot from "../src/assets/sumpsearch.png"
 import MythicScreenshot from "../src/assets/mythic_ecommerce.png"
 
 const projectsArr = [
+  {
+    screenshot: MensHealthClinicScreenshot,
+    title: "Men's Health Clinic",
+    languages: "Gatsby, HTML, CSS, JavaScript, React, Tailwind",
+    description:
+      "I have worked extensively on building and maintaining code for the Men's Health Clinic website, which currently caters to 4 regions internationally. Several features include interacting with our API to handle assessment quiz submissions, pulling and managing data from a headless CMS, localization for French Canada, reusable React components, advanced JavaScript logic, and SEO and page speed optimization.",
+    projectLink: "https://menshealthclinic.com/au",
+  },
   {
     screenshot: BlueprintScreenshot,
     title: "The Blueprint",

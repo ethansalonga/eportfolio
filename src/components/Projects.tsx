@@ -32,13 +32,15 @@ const Projects = () => {
                       {project.description}
                     </p>
                     <div className="project__description--links">
-                      <a
-                        href={project.githubLink}
-                        className="project__description--link"
-                        target="_blank"
-                      >
-                        <FontAwesomeIcon icon={faGithub} />
-                      </a>
+                      {project.githubLink && (
+                        <a
+                          href={project.githubLink}
+                          className="project__description--link"
+                          target="_blank"
+                        >
+                          <FontAwesomeIcon icon={faGithub} />
+                        </a>
+                      )}
                       <a
                         href={project.projectLink}
                         className="project__description--link"
