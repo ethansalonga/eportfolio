@@ -48,12 +48,13 @@ const Modal = ({ toggleModal }: ModalProps) => {
           I'm a <b className="blue">professional frontend developer</b> with a
           strong passion for developing websites with{" "}
           <b className="blue">great user experiences.</b>
-          <br />I currently build and maintain frontend software for an
-          international telehealth company, working on exciting projects related
-          to our <b className="blue">website</b>,{" "}
-          <b className="blue">dashboard app</b>, and{" "}
-          <b className="blue">internal admin console</b> every day.
         </p>
+        <p className="modal__para">
+          I have experience building and maintaining production-level frontend software,
+          and continue to work on exciting new projects, websites, and applications every day.
+          Feel free to check out some of my work below!
+        </p>
+
         <div className="modal__languages">
           <figure className="modal__language">
             <img
