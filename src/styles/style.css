@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 * {
   margin: 0;
@@ -71,6 +74,7 @@ textarea:focus {
 .container {
   padding: 50px 0;
   width: 100%;
+  margin: 0 auto;
 }
 
 .row {
